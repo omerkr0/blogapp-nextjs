@@ -1,3 +1,7 @@
+## Live
+
+[You can find the live version](https://blog-app-nextjs.netlify.app/) of the Blog application I made using Next.js and bootstrap here.
+
 ## Setup
 
 ``` bash
